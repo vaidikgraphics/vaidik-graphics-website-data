@@ -9,14 +9,9 @@
         "client":"The Poppy Pink",
         "description":"Dynamic promotional video with motion graphics and professional editing."
     },
-    "img3":{
-        "path":"images/banners/shahzeb-banner.png",
-        "client":"DNA",
-        "description":"Dynamic promotional video with motion graphics and professional editing."
-    },
     "img4":{
         "path":"images/banners/dna-shirt-banner.png",
-        "client":"DNA",
+        "client":"D",
         "description":"Dynamic promotional video with motion graphics and professional editing."
     }
 }
