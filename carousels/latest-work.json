@@ -1,0 +1,17 @@
+{
+    "img1":{
+        "path":"images/banners/dna-shrug-banner.png",
+        "client":"DNA",
+        "description":"Dynamic promotional video with motion graphics and professional editing."
+    },
+    "img2":{
+        "path":"images/banners/poppy-dress-banner.png",
+        "client":"The Poppy Pink",
+        "description":"Dynamic promotional video with motion graphics and professional editing."
+    },
+    "img3":{
+        "path":"images/banners/shahzeb-banner.png",
+        "client":"Tanvier Perfumes",
+        "description":"Dynamic promotional video with motion graphics and professional editing."
+    }
+}
