@@ -11,7 +11,12 @@
     },
     "img3":{
         "path":"images/banners/shahzeb-banner.png",
-        "client":"Tanvier Perfumes",
+        "client":"DNA",
+        "description":"Dynamic promotional video with motion graphics and professional editing."
+    },
+    "img4":{
+        "path":"images/banners/dna-shirt-banner.png",
+        "client":"DNA",
         "description":"Dynamic promotional video with motion graphics and professional editing."
     }
 }
