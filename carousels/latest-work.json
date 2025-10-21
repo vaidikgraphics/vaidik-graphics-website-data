@@ -1,22 +1,22 @@
 {
     "img1": {
         "path": "/images/banners/dna-shrug-banner.png",
-        "client":"DNA",
-        "description": "Dynamic promotional video with motion graphics and professional editing."
+        "client": "DNA",
+        "description": "High-quality banner design showcasing DNA’s elegant girls’ shrug collection, crafted with a modern and stylish touch."
     },
     "img2": {
         "path": "/images/banners/poppy-dress-banner.png",
-        "client":"The Poppy Pink",
-        "description": "Dynamic promotional video with motion graphics and professional editing."
+        "client": "The Poppy Pink",
+        "description": "Vibrant and eye-catching banner for The Poppy Pink, highlighting trendy and graceful dresswear with a chic aesthetic."
     },
     "img3": {
         "path": "/images/banners/dna-shirt-banner.png",
-        "client":"DNA",
-        "description": "Dynamic promotional video with motion graphics and professional editing."
+        "client": "DNA",
+        "description": "Stylish promotional banner for DNA’s girls’ tops range, featuring a clean layout and refined visual design."
     },
     "img4": {
         "path": "/images/banners/shahzeb-banner.png",
         "client": "Tanvier Perfumes",
-        "description": "Dynamic promotional video with motion graphics and professional editing."
+        "description": "A3-size poster design for Shahzeb by Tanvier Perfumes, crafted with a premium and luxurious visual appeal."
     }
 }
